@@ -1,0 +1,47 @@
+html,body{
+  background-color:black;
+  color:white;
+  font-size:20px;
+}
+
+.main{
+   width:80%;
+   margin:0 auto;
+}
+
+.balls-div{
+   padding:100px 0px;
+   font-size:30px;
+   display:flex;
+   justify-content:between;
+   gap:150px;
+   align-items:center;
+   
+}
+
+.animation-musk img{
+   width:400px;
+   height:400px;
+   border-radius:50%;
+}
+
+.animation-toys #toys{
+   width:400px;
+   height:400px;
+   border-radius:50%;
+}
+
+
+.card_main{
+   padding:100px 0px;
+   display:flex;
+   justify-content:space-between;
+   align-items:center;
+   gap:40px;
+}
+
+.card{
+   border:1px solid red;
+   border-radius:20px;
+   padding:55px;
+}
